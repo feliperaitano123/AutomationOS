@@ -2,30 +2,24 @@
 
 Operating system for automation projects with Claude Code.
 
-## How to use
-
-### 1. Clone for a new project
+## Quick start
 
 ```bash
-git clone feliperaitano/AutomationOS my-project
+# 1. Create a new project from this template
+gh repo create my-project --template feliperaitano123/AutomationOS --clone --private
 cd my-project
-```
+git submodule update --init
 
-### 2. Open in Claude Code
-
-```bash
+# 2. Open in Claude Code
 claude
-```
 
-Plugins load automatically. Nothing is installed globally.
-
-### 3. Initialize the project
-
-```
+# 3. Initialize the project
 /setup
 ```
 
-The Automation Engineer collects information, creates a PRD, documents tools, and builds an action plan.
+That's it. The Automation Engineer will guide you through creating a PRD, documenting tools, and building an action plan.
+
+> **Note**: You need [GitHub CLI](https://cli.github.com/) (`gh`) and [Claude Code](https://claude.ai/claude-code) installed.
 
 ## Available commands
 
