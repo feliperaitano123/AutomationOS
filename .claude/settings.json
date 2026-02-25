@@ -1,0 +1,6 @@
+{
+  "enabledPlugins": {
+    "automation-engineer@automation-os": true,
+    "n8n-skills@automation-os": true
+  }
+}

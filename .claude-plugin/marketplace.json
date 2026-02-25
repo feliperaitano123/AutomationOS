@@ -1,0 +1,18 @@
+{
+  "name": "automation-os",
+  "owner": {
+    "name": "Felipe Raitano"
+  },
+  "plugins": [
+    {
+      "name": "automation-engineer",
+      "source": "./automation-engineer",
+      "description": "Automation engineer — PRD-driven project management, daily tasks, tool research, and progress tracking"
+    },
+    {
+      "name": "n8n-skills",
+      "source": "./n8n-skills",
+      "description": "7 specialized skills for n8n workflow development"
+    }
+  ]
+}

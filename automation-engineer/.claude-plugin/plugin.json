@@ -1,0 +1,9 @@
+{
+  "name": "automation-engineer",
+  "version": "2.0.0",
+  "description": "Automation engineer — PRD-driven project management, daily tasks, tool research, and progress tracking",
+  "author": {
+    "name": "Felipe Raitano"
+  },
+  "keywords": ["automation", "engineer", "project", "prd", "tasks", "tools", "roadmap"]
+}
