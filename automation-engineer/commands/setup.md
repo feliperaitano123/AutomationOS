@@ -1,4 +1,5 @@
 ---
+name: setup
 description: Initialize a project — collect information, create PRD, document tools, build action plan
 ---
 

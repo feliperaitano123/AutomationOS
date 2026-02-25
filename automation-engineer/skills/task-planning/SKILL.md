@@ -1,4 +1,5 @@
 ---
+name: task-planning
 description: Organizes requirements into prioritized tasks with dependencies and writes to the roadmap
 ---
 

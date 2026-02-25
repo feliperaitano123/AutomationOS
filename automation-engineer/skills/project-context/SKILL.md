@@ -1,4 +1,5 @@
 ---
+name: project-context
 description: Reads and maintains project context — PRD, roadmap, tools, tasks, and decisions
 ---
 

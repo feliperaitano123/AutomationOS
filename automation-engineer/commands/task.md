@@ -1,4 +1,5 @@
 ---
+name: task
 description: Manage daily tasks — start a new task, check active task, or close a completed task
 ---
 

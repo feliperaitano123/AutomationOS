@@ -1,4 +1,5 @@
 ---
+name: tool
 description: Manage project tools — list, add, or inspect tools with credentials and research
 ---
 

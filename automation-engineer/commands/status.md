@@ -1,4 +1,5 @@
 ---
+name: status
 description: Show project overview — PRD, roadmap progress, tools, active task, and research
 ---
 

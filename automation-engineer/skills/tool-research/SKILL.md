@@ -1,4 +1,5 @@
 ---
+name: tool-research
 description: Researches tools, plugins, MCPs, and APIs — documents findings for project use
 ---
 
